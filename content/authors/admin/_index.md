@@ -2,8 +2,7 @@
 title: Matteo Valerio
 role: Data Scientist
 avatar_filename: ""
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -52,4 +51,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-**T﻿est bio**
+**My research interests include distributed robotics, mobile computing and programmable matter.**

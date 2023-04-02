@@ -1,0 +1,79 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: The predictive and prognostic role of metabolic and volume-based parameters
+  of positron emission tomography/computed tomography as non-invasive dynamic biological
+  markers in early breast cancer treated with preoperative systemic therapy
+subtitle: ''
+summary: ''
+authors:
+- Alessandro Inno
+- Marta Peri
+- Monica Turazza
+- Giuseppe Bogina
+- Alessandra Modena
+- Alberto Massocco
+- Modestino Pezzella
+- admin
+- Rosario Mazzola
+- Laura Olivari
+- Fabrizia Severi
+- Giovanni Foti
+- Cristina Mazzi
+- Fabiana Marchetti
+- Gianluigi Lunardi
+- Matteo Salgarello
+- Antonio Russo
+- Stefania Gori
+tags:
+- early breast cancer
+- PET CT scan
+- predictive factors
+- preoperative chemotherapy
+- SUV
+categories: []
+date: '2022-01-01'
+lastmod: 2023-03-31T21:26:21+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-03-31T19:26:18.732647Z'
+publication_types:
+- '2'
+abstract: 'INTRODUCTION: The role of fluorodeoxyglucose (FDG) positron emission tomography/computed
+  tomography (PET/CT) in early breast cancer treated with preoperative systemic therapy
+  (PST) is not yet established in clinical practice. PET parameters have aroused great
+  interest in the recent years, as non-invasive dynamic biological markers for predicting
+  response to PST. METHODS: In this retrospective study, we included 141 patients
+  with stage II-III breast cancer who underwent surgery after PST. Using ROC analysis,
+  we set optimal cutoff of FDG-PET/CT parameters predictive for pathological complete
+  response (pCR). We investigated the correlation between FDG-PET/CT parameters and
+  pCR, median disease-free survival (DFS), and median overall survival (mOS). RESULTS:
+  At multivariable analysis, baseline SUVmax (high vs low: OR 9.00, CI 1.85 - 61.9,
+  p=0.012) and Delta SUVmax (high vs low: OR 9.64, CI 1.84, 69.2, p=0.012) were significantly
+  associated with pCR rates. Interestingly, we found that a combined analysis of the
+  metabolic parameter Delta SUVmax with the volume-based parameter Delta MTV, may
+  help to identify patients with pCR, especially in the subgroup of hormone receptor
+  positive breast cancer. Delta SUVmax was also an independent predictive marker for
+  both mDFS (high vs low: HR 0.17, 95%CI 0.05-0.58, p=0.004) and mOS (high vs. low:
+  HR 0.19, 95%CI 0.04-0.95, p=0.029). DISCUSSION: Our results suggest that Delta SUVmax
+  may predict survival of early BC patients treated with PST.'
+publication: '*Front Oncol*'
+doi: 10.3389/fonc.2022.976823
+
+url_pdf: "pdf/Inno_Front Oncol_2022.pdf"
+---

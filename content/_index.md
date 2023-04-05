@@ -297,7 +297,7 @@ sections:
         - icon: telegram
           icon_pack: fab
           name: Telegram Me
-          link: 'https://telegram.me/MatteoValerio'  
+          link: 'https://telegram.me/MatteoValerio'
         #- icon: skype
         #  icon_pack: fab
         #  name: Skype Me

@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Maurizio Muscaritoli
 - Alessandra Modena
-- Matteo Valerio
+- admin
 - Paolo Marchetti
 - Roberto Magarotto
 - Silvia Quadrini

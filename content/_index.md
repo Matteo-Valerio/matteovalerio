@@ -25,10 +25,6 @@ sections:
           description: Data Analysis, ETL, Graphics, <br> Machine Learning, Deep Learning
           icon: python
           icon_pack: fab
-        - name: Databases
-          description: Oracle, MySQL, SQLite, SQL Server <br> SQL and PL/SQL language
-          icon: database
-          icon_pack: fas 
         - name: Reproducible Research
           description: R Markdown, Jupyter Notebook, STATA scripts
           icon: markdown
@@ -41,6 +37,14 @@ sections:
           description: Regression, Survival analysis, <br> Parametric/Non-Parametric tests
           icon: chart-line
           icon_pack: fas
+        - name: Continuous Integration
+          description: Git, GitHub
+          icon: code-branch
+          icon_pack: fas
+        - name: Databases
+          description: Oracle, MySQL, SQLite, SQL Server <br> SQL and PL/SQL language
+          icon: database
+          icon_pack: fas 
         - name: eCRF
           description: Development of web apps with <br> Oracle APEX and REDCap
           icon: table-list
@@ -52,6 +56,10 @@ sections:
         - name: Graphics
           description: Photoshop, GIMP
           icon: image
+          icon_pack: fas
+        - name: Photography
+          description: Passionate and amateur <br> ([Portfolio](https://mv-photography.netlify.app/))
+          icon: camera-retro
           icon_pack: fas
   #- block: experience
   #  content:

@@ -21,6 +21,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Matteo-Valerio
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Matteo-Valerio
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/matteo-valerio-7025b864/

@@ -20,6 +20,7 @@ publication_types:
 - article-journal
 publication: '*AboutOpen*'
 doi: 10.33393/ao.2024.2634
+
 url_pdf: "pdf/Gori_AboutOpen_2024.pdf"
 abstract: 'In Italy, breast cancer is the most frequently diagnosed cancer in women,
   with 55,900 new cases in 2023 (over 90% in the early stages). Due to the screening,

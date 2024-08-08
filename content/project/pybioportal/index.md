@@ -15,7 +15,15 @@ links:
   - icon: github
     icon_pack: fab
     name: Repository
-    url: https://github.com/Matteo-Valerio/pyBioPortal 
+    url: https://github.com/Matteo-Valerio/pyBioPortal
+  - icon: book
+    icon_pack: fas
+    name: Documentation
+    url: https://pybioportal.readthedocs.io/en/latest/
+  - icon: medium
+    icon_pack: fab
+    name: Overview
+    url: https://medium.com/@m.valerio/introducing-pybioportal-a-python-package-for-accessing-cbioportal-data-4ddfc647287f  
 url_code: ''
 url_pdf: ''
 url_slides: ''

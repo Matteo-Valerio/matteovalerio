@@ -1,0 +1,82 @@
+---
+title: 'Adjuvant systemic therapy in early breast cancer and results of a prospective
+  observational multicenter BRIDE study: patients outcome and adherence to guidelines
+  in cancer clinical practice'
+authors:
+- Stefania Gori
+- Alessandra Fabi
+- Catia Angiolini
+- Monica Turazza
+- Piermario Salvini
+- Gianluigi Ferretti
+- Elisabetta Cretella
+- Lorenzo Gianni
+- Claudia Bighin
+- Angela Toss
+- Claudio Zamagni
+- Patrizia Vici
+- Costanza De Rossi
+- Antonio Russo
+- Giancarlo Bisagni
+- Alessio Schirone
+- Lucia Borgato
+- Anna Cariello
+- Claudia Cappelletti
+- Roberto Bordonaro
+- Saverio Cinieri
+- Alessandra Modena
+- admin
+- Maria Francesca Alvisi
+- Irene De Simone
+- Francesca Galli
+- Eliana Rulli
+- Anna Santoni
+- Matteo Verzè
+- Fabrizio Nicolis
+date: '2025-04-08'
+publishDate: '2025-05-13T10:42:59.893077Z'
+publication_types:
+- '2'
+publication: '*Frontiers in Oncology*'
+doi: 10.3389/fonc.2025.1501667
+url_pdf: "pdf/Gori_Front Oncol_2025.pdf"
+abstract: "INTRODUCTION: Evaluation of every breast cancer (BC) patient by multidisciplinary\
+  \ team and application of guidelines are very important to ensure the best treatment\
+  \ and achieve the best outcome. METHODS: The multicenter prospective observational\
+  \ BRIDE study enrolled, from 01/2018 to 02/2021, 1633 BC patients from 19 Italian\
+  \ cancer centers. To evaluate the clinical and biopathological characteristics of\
+  \ BC patients with pathological stage I-II-III treated with surgery followed by\
+  \ adjuvant systemic therapy, type of therapies delivered, outcome and adherence\
+  \ to guidelines, an analysis of 1123 patients out of 1633 patients enrolled in BRIDE\
+  \ study was conducted. RESULTS: The 1123 patients with stage I-II-III BC had a median\
+  \ age of 61.2 years (Q1-Q3: 50.6-71.7); 70.2% were postmenopausal, 92.1% had ECOG\
+  \ PS 0, 68.4% pT1 disease, 70.7% pN0, 91.7% pathological stage I-II; 68.9% underwent\
+  \ conservative breast surgery and 79.8% sentinel lymph node biopsy alone. According\
+  \ to phenotypic subgroup, 80.6% of patients had a HER2-negative/HR-positive, 10.4%\
+  \ HER2-positive/HR-positive, 6.4% triple negative and 2.6% HER2-positive/HR-negative\
+  \ BC. In clinical practice, the phenotypic tumoral subgroup influenced oncologists\
+  \ in the choice of the type of adjuvant systemic therapy (ptextless0.0001) according\
+  \ to ESMO and AIOM Guidelines. Adjuvant radiotherapy was administered to 85.5% patients\
+  \ undergoing breast-conserving surgery. At the median follow up of 41.4 months (Q1:\
+  \ 35.3 months - Q3: 57.9 months), the DFS at 48 months was 92.8%, with different\
+  \ rates in the phenotypic subgroups. The adherence to AIOM Guidelines in clinical\
+  \ practice was ≥ 70% for the four evaluated quality indicators of treatment process.\
+  \ DISCUSSION: In patients with pathological stage I-II-III BC, the phenotypic subgroup\
+  \ influenced the oncologists' decision on the choice of type of adjuvant systemic\
+  \ therapy, as also indicated by international and national guidelines. In our patients,\
+  \ the DFS rate at 24 and 48 months after surgery was 95.4% and 92.8% respectively.\
+  \ The adherence to the AIOM Guidelines in clinical practice was high but having\
+  \ both quality indicators (shared at international and national level) to evaluate\
+  \ the quality of care in BC and standardized threshold levels to evaluate adherence\
+  \ to guidelines is very important today because this type of evaluation will increase\
+  \ in the coming years."
+tags:
+- adherence to guideline
+- adjuvant systemic therapy
+- early breast cancer
+- outcome
+- quality indicators
+links:
+- name: URL
+  url: https://doi.org/10.3389/fonc.2025.1501667
+---
